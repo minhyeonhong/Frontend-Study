@@ -34,6 +34,8 @@
   
   - [익명함수](./JavaScript/%EC%9D%B5%EB%AA%85%ED%95%A8%EC%88%98.md) 
 
+  - [URI, URL, URN](./JavaScript/URI%2CURL%2CURN.md)
+
   <br>
 
 - ### **React**
@@ -83,6 +85,8 @@
   - [HTTP, HTTPS](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%2C%20%EB%B0%B1%EC%97%94%EB%93%9C/HTTP%2C%20HTTPS.md)
 
   - [REST API ,RESTful API](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%2C%20%EB%B0%B1%EC%97%94%EB%93%9C/REST%20API%20%2CRESTful%20API.md)
+
+  - [인증, 인가](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%2C%20%EB%B0%B1%EC%97%94%EB%93%9C/%EC%9D%B8%EC%A6%9D%2C%20%EC%9D%B8%EA%B0%80.md)
 
 <br>
 
